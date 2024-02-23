@@ -1,11 +1,10 @@
 // Assignment code here
 
-
 function generatePassword() {
   let user_length = prompt("Password Length")
   if (user_length < 8 || user_length > 128 || isNaN(user_length)) {
     alert("Password Length Must Be Between 8 and 128 Characters")
-    return generatePassword()
+    return generatePassword();
   }
   let numbers = confirm("Incude Numbers")
   let uppercase = confirm("Include Uppercase")
