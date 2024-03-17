@@ -20,4 +20,4 @@ Password Generator Image:
 
 Finished Product:
 
-http://127.0.0.1:5500/index.html
+[http://127.0.0.1:5500/index.html](https://jeflynn135.github.io/Password-Generator/)https://jeflynn135.github.io/Password-Generator/
